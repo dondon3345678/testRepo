@@ -1,5 +1,5 @@
 name: wordpress
-version: v5
+version: v6
 inputs: {}
 resources:
   Cloud_Network_1:
